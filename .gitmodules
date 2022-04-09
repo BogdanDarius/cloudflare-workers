@@ -1,0 +1,3 @@
+[submodule "notion-stockprices"]
+	path = notion-stockprices
+	url = git@github.com:BogdanDarius/notion-stockprices.git
